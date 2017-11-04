@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 4c29e16776a5a31468e225513d9407a4
+timeCreated: 1508524314
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: floor_thirdClass
+    100002: junction_ironpillar
+    100004: pCube130
+    100006: pCube131
+    100008: pCube134
+    100010: pCube135
+    100012: pCube136
+    100014: pCube137
+    100016: pCylinder16
+    100018: pCylinder17
+    100020: pCylinder18
+    100022: pCylinder19
+    100024: pCylinder20
+    100026: pipe3
+    100028: //RootNode
+    400000: floor_thirdClass
+    400002: junction_ironpillar
+    400004: pCube130
+    400006: pCube131
+    400008: pCube134
+    400010: pCube135
+    400012: pCube136
+    400014: pCube137
+    400016: pCylinder16
+    400018: pCylinder17
+    400020: pCylinder18
+    400022: pCylinder19
+    400024: pCylinder20
+    400026: pipe3
+    400028: //RootNode
+    2300000: floor_thirdClass
+    2300002: junction_ironpillar
+    2300004: pCube130
+    2300006: pCube131
+    2300008: pCube134
+    2300010: pCube135
+    2300012: pCube136
+    2300014: pCube137
+    2300016: pCylinder16
+    2300018: pCylinder17
+    2300020: pCylinder18
+    2300022: pCylinder19
+    2300024: pCylinder20
+    2300026: pipe3
+    2300028: //RootNode
+    3300000: floor_thirdClass
+    3300002: junction_ironpillar
+    3300004: pCube130
+    3300006: pCube131
+    3300008: pCube134
+    3300010: pCube135
+    3300012: pCube136
+    3300014: pCube137
+    3300016: pCylinder16
+    3300018: pCylinder17
+    3300020: pCylinder18
+    3300022: pCylinder19
+    3300024: pCylinder20
+    3300026: pipe3
+    3300028: //RootNode
+    4300000: thirdClass_wall_junction
+    4300002: pCube130
+    4300004: pCube131
+    4300006: junction_ironpillar
+    4300008: pCube137
+    4300010: pCube136
+    4300012: pCube135
+    4300014: pCube134
+    4300016: pipe3
+    4300018: pCylinder16
+    4300020: pCylinder17
+    4300022: pCylinder18
+    4300024: pCylinder19
+    4300026: pCylinder20
+    4300028: floor_thirdClass
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

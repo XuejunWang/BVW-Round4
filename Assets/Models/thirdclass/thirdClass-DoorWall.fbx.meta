@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 6b5862ba6625e954ca8624b5c9ed65af
+timeCreated: 1508524316
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: doorHandler
+    100002: doorHandler 1
+    100004: floor_thirdClass1
+    100006: pCube118
+    100008: pCube119
+    100010: pCube120
+    100012: pCube121
+    100014: pCube129
+    100016: pCube139
+    100018: pCube139 1
+    100020: pCube140
+    100022: pCube140 1
+    100024: pCube141
+    100026: pCube141 1
+    100028: pCube142
+    100030: pCube142 1
+    100032: pCylinder12
+    100034: pCylinder3
+    100036: pipe1
+    100038: //RootNode
+    100040: thirdClassDoor
+    100042: thirdClassDoor1
+    400000: doorHandler
+    400002: doorHandler 1
+    400004: floor_thirdClass1
+    400006: pCube118
+    400008: pCube119
+    400010: pCube120
+    400012: pCube121
+    400014: pCube129
+    400016: pCube139
+    400018: pCube139 1
+    400020: pCube140
+    400022: pCube140 1
+    400024: pCube141
+    400026: pCube141 1
+    400028: pCube142
+    400030: pCube142 1
+    400032: pCylinder12
+    400034: pCylinder3
+    400036: pipe1
+    400038: //RootNode
+    400040: thirdClassDoor
+    400042: thirdClassDoor1
+    2300000: doorHandler
+    2300002: doorHandler 1
+    2300004: floor_thirdClass1
+    2300006: pCube118
+    2300008: pCube119
+    2300010: pCube120
+    2300012: pCube121
+    2300014: pCube129
+    2300016: pCube139
+    2300018: pCube139 1
+    2300020: pCube140
+    2300022: pCube140 1
+    2300024: pCube141
+    2300026: pCube141 1
+    2300028: pCube142
+    2300030: pCube142 1
+    2300032: pCylinder12
+    2300034: pCylinder3
+    2300036: pipe1
+    2300038: //RootNode
+    2300040: thirdClassDoor
+    2300042: thirdClassDoor1
+    3300000: doorHandler
+    3300002: doorHandler 1
+    3300004: floor_thirdClass1
+    3300006: pCube118
+    3300008: pCube119
+    3300010: pCube120
+    3300012: pCube121
+    3300014: pCube129
+    3300016: pCube139
+    3300018: pCube139 1
+    3300020: pCube140
+    3300022: pCube140 1
+    3300024: pCube141
+    3300026: pCube141 1
+    3300028: pCube142
+    3300030: pCube142 1
+    3300032: pCylinder12
+    3300034: pCylinder3
+    3300036: pipe1
+    3300038: //RootNode
+    3300040: thirdClassDoor
+    3300042: thirdClassDoor1
+    4300000: thirdclass_wall_door
+    4300002: pCube129
+    4300004: thirdClassDoor1
+    4300006: pCube139
+    4300008: pCube141
+    4300010: pCube140
+    4300012: pCube142
+    4300014: doorHandler
+    4300016: thirdClassDoor
+    4300018: doorHandler
+    4300020: pCube139
+    4300022: pCube140
+    4300024: pCube141
+    4300026: pCube142
+    4300028: pCube120
+    4300030: pCube119
+    4300032: pCube118
+    4300034: pCube121
+    4300036: pipe1
+    4300038: pCylinder12
+    4300040: pCylinder3
+    4300042: floor_thirdClass1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
